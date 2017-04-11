@@ -1,0 +1,15 @@
+{
+  "name": "citconpay-chop-demo-node",
+  "version": "0.0.0",
+  "description": "Node demo for calling Citcon's CHOP APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.15.2"
+  },
+  "devDependencies": {}
+}
