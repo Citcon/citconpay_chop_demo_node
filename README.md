@@ -1,4 +1,5 @@
-#Citcon Hosted Online Payment (CHOP) Demo in Node.js
+# Citcon Hosted Online Payment (CHOP) Demo in Node.js
+
 CHOP is Citcon's online payment product that helps online merchants quickly integrate a full payment solution.
 
 Using hosted payment solutions by Citcon, merchants development cost is dramatically reduced because almost everything in the payment flow is built, hosted and managed by Citcon. This also significantly redeuced the liability and effort merchants otherwise have to be concerned with on security and data privacy. For example, merchants, who are taking credit card payments, normally need to be cerified by PCI-DSS; now, merchants only need to self-certify with PCI-DSS SAQ A-EP.
